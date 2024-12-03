@@ -1,5 +1,5 @@
 
-# Comma AI Dash cam Footage Sync Tool using SFTP
+# Comma AI Dash Cam Footage Sync Tool using SFTP
 
 This Python script synchronizes dash cam footage between a [Comma](https://comma.ai/shop/comma-3x) and a local directory on a computer using SFTP. 
 
